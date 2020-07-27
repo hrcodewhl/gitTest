@@ -5,4 +5,5 @@ public class teacher {
     private String name;
     private double weight;
     private int hight;
+    private int sex;
 }
